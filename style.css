@@ -947,7 +947,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: url(image/fim.jpg);
+  background-image: url(fim.jpg);
   background-size: cover;
   background-position: center 30%;
   background-repeat: no-repeat;
@@ -1969,7 +1969,7 @@ body {
 }
 
 .page-musculation-photo {
-    background-image: url(image/Gym\ Interior\ Projects\ __\ Photos\,\ videos\,\ logos\,\ illustrations\ and\ branding\ \(1\).jpg);
+    background-image: url(Gym\ Interior\ Projects\ __\ Photos\,\ videos\,\ logos\,\ illustrations\ and\ branding\ \(1\).jpg);
     background-position: center;
     background-size: cover;
     min-height: 100vh;
@@ -3983,7 +3983,6 @@ body {
     --shadow-hover: 0 20px 40px -15px rgba(139, 90, 43, 0.2);
 }
 
-/* ===== RESET ===== */
 * {
     margin: 0;
     padding: 0;
@@ -4001,7 +4000,6 @@ body {
     line-height: 1.6;
 }
 
-/* ===== TYPOGRAPHIE ===== */
 h1, h2, h3, h4, p, a, li, span, div {
     color: var(--dark);
 }
@@ -4056,7 +4054,6 @@ p {
     color: var(--primary);
 }
 
-/* ===== BOUTONS ===== */
 .btn {
     display: inline-block;
     padding: 0.8rem 2rem;
@@ -4092,7 +4089,6 @@ p {
     transform: translateY(-2px);
 }
 
-/* ===== HEADER ===== */
 .navbar {
     background: var(--white);
     padding: 1rem 5%;
@@ -4137,7 +4133,6 @@ p {
     color: var(--primary);
 }
 
-/* ===== STYLES POUR LES VIDÉOS ===== */
 .video-mini-container {
     margin-top: 2rem;
     padding-top: 1rem;
@@ -4171,7 +4166,6 @@ p {
     margin: 0 auto;
 }
 
-/* Ajustements pour les cartes avec vidéos */
 .celebrite-infos {
     overflow-y: auto;
     max-height: 600px;
@@ -4195,7 +4189,6 @@ p {
     background: #8B5A2B;
 }
 
-/* Responsive pour les vidéos */
 @media (max-width: 768px) {
     .video-mini-container iframe {
         height: 180px;
@@ -4206,8 +4199,6 @@ p {
         overflow-y: visible;
     }
 }
-
-/* ===== VARIABLES - MARRON/BEIGE ===== */
 :root {
     --primary: #8B5A2B;        /* Marron principal */
     --primary-dark: #6B4226;    /* Marron foncé */
@@ -4281,7 +4272,6 @@ p {
     margin-bottom: 1rem;
 }
 
-/* ===== BOUTONS ===== */
 .btn {
     display: inline-block;
     padding: 0.8rem 2rem;
